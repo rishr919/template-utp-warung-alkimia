@@ -40,7 +40,7 @@
             </div>
             
             <div class="form-field">
-                <label for="menu">Ransum</label>
+                <label for="menu">Ramuan</label>
                 <select id="menu" name="menu" required>
                     <option value="" selected disabled>Pilih ransum</option>
                     <option value="Healing Potion Merah">Healing Potion Merah — Rp15.000</option>
