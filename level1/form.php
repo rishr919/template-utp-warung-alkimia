@@ -42,7 +42,7 @@
             <div class="form-field">
                 <label for="menu">Ramuan</label>
                 <select id="menu" name="menu" required>
-                    <option value="" selected disabled>Pilih ransum</option>
+                    <option value="" selected disabled>Pilih Ramuan</option>
                     <option value="Healing Potion Merah">Healing Potion Merah — Rp15.000</option>
                     <option value="Mana Elixir Biru">Mana Elixir Biru — Rp18.000</option>
                     <option value="Stamina Draught Hijau">Stamina Draught Hijau — Rp22.000</option>
